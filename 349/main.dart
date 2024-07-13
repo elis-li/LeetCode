@@ -9,5 +9,5 @@
     return numsSimilar;
   }
   void main(){
-    print(intersection([1], [1]));
+    print(intersection([1,2,2,1], [1,2]));
   }
