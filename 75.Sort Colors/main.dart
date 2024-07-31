@@ -1,5 +1,5 @@
 void main() {
-  List<int> nums = [2,5,1,3,0,4,8];
+  List<int> nums = [4, 1, 5, 6, 6, 3];
     bool swapped;
     do {
         swapped = false;
